@@ -132,15 +132,6 @@ if st.button("💾 저장"):
 
 ---
 
-## 🛣️ 로드맵
-
-- [ ] Admin 분류 관리 페이지 (CRUD)
-- [ ] 발주·입고 모듈 + SMS 도착 알림
-- [ ] 로그인·권한 (사장 vs 매니저)
-- [ ] Docker + GitHub CI/CD 배포 파이프라인
-
----
-
 ## 📜 License  | MIT
 
 <div align="center">Made with 💚 by Subway‑Ops Team</div>
