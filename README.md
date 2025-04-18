@@ -24,7 +24,7 @@
 
 |   구분               |   설명                                                  |
 | -------------------- | ------------------------------------------------------- |
-| **⚙️ 분류 관리**     | 대·중·소 카테고리 CRUD _(admin 페이지 TODO)_            |
+| **⚙️ 분류 관리**     | 대·중·소 카테고리 CRUD                                  |
 | **📋 재고 입력**     | 태블릿 UI → DB 저장, 기준치 비교 알람                   |
 | **📲 SMS 알림**      | Twilio – 기준 미달 / 과잉 시 즉시 사장 폰으로 전송      |
 | **📊 통계 대시보드** | 월별 재고 추이, Hover 상세, CSV 다운로드                |
@@ -35,13 +35,13 @@
 
 ## 🏗️ 기술 스택
 
-| Layer          | Tech                                      |
-| -------------- | ----------------------------------------- |
-| **UI**         | Streamlit 1.32 · Plotly Express           |
-| **ORM/DB**     | SQLAlchemy 2 · SQLite / PostgreSQL        |
-| **SMS**        | Twilio REST API                           |
-| **Auth(옵션)** | Streamlit session state + bcrypt _(TODO)_ |
-| **DevOps**     | GitHub Actions · Dockerfile *(예정)*      |
+| Layer          | Tech                               |
+| -------------- | ---------------------------------- |
+| **UI**         | Streamlit 1.32 · Plotly Express    |
+| **ORM/DB**     | SQLAlchemy 2 · SQLite / PostgreSQL |
+| **SMS**        | Twilio REST API                    |
+| **Auth(옵션)** | Streamlit session state + bcrypt   |
+| **DevOps**     | GitHub Actions · Dockerfile        |
 
 ---
 
