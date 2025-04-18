@@ -1,0 +1,5 @@
+streamlit==1.32.2
+pandas
+SQLAlchemy
+plotly
+python-dotenv  # (선택) .env 환경변수 로드
